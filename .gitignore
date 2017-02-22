@@ -1,0 +1,17 @@
+#.gitignore
+*.bak
+# Git
+*.orig
+*~
+/vendor/
+/bin/
+/var/cache/
+/var/logs/
+/var/sessions/
+#Documentos
+*.pdf
+*.doc
+*.docx
+*.dat
+*.swp
+
